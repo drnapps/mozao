@@ -1,0 +1,81 @@
+.bglight {
+  background-image: linear-gradient(to right, #f1f1f1, #eeeeee);
+}
+
+.textlight {
+  color: #f1f1f1;
+}
+
+.textdark {
+  color: #1e1f23;
+}
+
+.verslight {
+  color: #1e1f23;
+}
+
+.versdark {
+  color: #f1f1f1;
+}
+
+.alertlight {
+  color: #1e1f23;
+}
+
+.alertdark {
+  color: #1e1f23;
+}
+
+.bgdark {
+  background-image: linear-gradient(to right, #1e1f23, #28292d);
+}
+
+.boxlight {
+  background-color: #fff;
+  color: #000;
+}
+
+.boxdark {
+  background-color: #33373a;
+  color: #fff;
+}
+
+.itemlight {
+  background-image: linear-gradient(to right, #fff, #fff);
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.itemlight:hover {
+  background-image: linear-gradient(to right, #f1f1f1, #eeeeee);
+}
+
+.indicalight {
+  background-image: linear-gradient(to right, #f1f1f1, #eeeeee);
+}
+
+.indicadark {
+  background-image: linear-gradient(to right, #1e1f23, #28292d);
+}
+
+.itemdark {
+  background-image: linear-gradient(to right, #33373a, #33373a);
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.itemdark:hover {
+  background-image: linear-gradient(to right, #1e1f23, #28292d);
+}
+
+
+.sidebarblock {
+  transition: all 0.25s;
+  -webkit-transition: all 0.25s;
+}
+
+.sidebarnone {
+  transition: all 0.25s;
+  -webkit-transition: all 0.25s;
+  margin-left: -1050px;
+}
